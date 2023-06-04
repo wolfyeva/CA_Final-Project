@@ -20,7 +20,7 @@ Visual Studio
 ## Title
 模擬樹木年輪生長
 - 參考論文: [Procedural Texturing of Solid Wood with Knots](https://dl.acm.org/doi/10.1145/3528223.3530081) (2022)
-- 參考GitHub Code: [procedural_knots](https://github.com/marialarsson/procedural_knots)
+- 參考GitHub Code: [procedural_knots](https://github.com/marialarsson/procedural_knots) (Python)
 
 ## Goal / Motivation
 在 Procedural Texturing of Solid Wood with Knots 論文中使用 Procedural Texturing 的方法實作樹木年輪中含有節(Knots)的紋理,其中包含部分模擬年輪的生長。因此我們希望使用 Procedural Texturing 的方法來模擬樹木年輪生長的情況。
