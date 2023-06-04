@@ -6,6 +6,7 @@ Group 39
 - [glfw](https://github.com/glfw/glfw)
 - [glad](https://github.com/Dav1dde/glad)
 - [glm](https://github.com/g-truc/glm)
+- [imgui](https://github.com/ocornut/imgui)
 
 ### Dependencies for Windows
 
@@ -37,6 +38,11 @@ Visual Studio
 - 輸入樹木骨架和節的資訊
 - 調整參數模擬樹木不同特性
 - 模擬生長動畫
+
+## Implementation
+- 將 Python code 改為 C++ code 實作
+- 加入GUI來調整參數
+- 加入不同的 Map 更改木頭樣貌
 
 ## Expected results
 - 了解樹木內部生物構造及成長方式:"節"與年輪的相互影響
