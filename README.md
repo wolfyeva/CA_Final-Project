@@ -48,3 +48,6 @@ Visual Studio
 - 了解樹木內部生物構造及成長方式:"節"與年輪的相互影響
 - 了解目前對於樹木如何進行建模，各種參數對於模型的意義
 - 嘗試依不同種類的樹木，模擬出其特性(成長)
+
+## Demo
+![image](https://github.com/wolfyeva/CA_Final-Project/assets/82746900/e70f62ad-2cb7-473f-b1f2-5b6efdc2e66e)
